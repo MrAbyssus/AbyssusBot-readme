@@ -5,67 +5,71 @@
 </p>
 
 
-👁️‍🗨️ ¿Y si tu servidor tuviera un alma?
+# 🌌 Abyssus Bot — Mucho más que un bot de Discord
 
-Unente que susurra horóscopos, lanza retos imposibles, crea drama donde no lo hay, y responde con sabiduría o sarcasmo según el clima cósmico. Este bot no es solo comandos: es caos con propósito, humor con veneno, y magia digital en cada línea.
+¿Y si tu servidor tuviera una inteligencia propia?
 
-Con más de 150 comandos únicos, transforma cualquier canal en un escenario donde todo puede pasar. Desde astrología hasta duelos entre usuarios, desde consejos que nadie pidió hasta memes que salvan días grises.
+Abyssus no es simplemente otro bot de Discord. Es una plataforma diseñada para administrar, automatizar, proteger y dar vida a tu comunidad.
 
-🧿 ¿Qué puede hacer?
+Desde herramientas avanzadas de moderación hasta sistemas de entretenimiento, automatización y gestión web, Abyssus transforma cualquier servidor en un ecosistema completo.
 
-🔮 Leer tu carta astral y revelar secretos cósmicos  
-♈ Mostrar tu horóscopo diario con un toque de ironía  
-🃏 Interpretar el tarot como si fuera tu abuela mística  
-💸 Economía con tienda, productos y eventos temáticos  
-🛡 Moderación inteligente: baneos, kicks, warns  
-🎭 Juegos sociales como Loba, Mafia, Verdadero o Falso  
-🧠 Consejos, retos y respuestas que oscilan entre lo sabio y lo absurdo  
+## ✨ ¿Qué puede hacer?
 
-🧬 ¿Por qué invocarlo?
+🛡️ Moderación avanzada: baneos, kicks, warns, logs y herramientas administrativas.
 
-Porque tu servidor merece personalidad  
-Porque el aburrimiento no tiene cabida  
-Porque cada comando es una chispa de caos controlado  
+⚙️ Automatización inteligente: sistemas automáticos, autoroles, configuraciones centralizadas y gestión simplificada.
 
-🔗 Agrégalo hoy. Deja que Abyssus desate el caos cósmico. Tu comunidad no volverá a ser la misma.
+🌐 Dashboard Web: administra tu servidor desde cualquier lugar mediante un panel web intuitivo y seguro.
 
----
+📊 Sistema de monitoreo y registros: mantén el control de todo lo que ocurre dentro de tu comunidad.
 
+🎭 Diversión y comunidad: juegos, interacciones sociales, eventos y múltiples comandos para mantener activa a tu comunidad.
 
-Gracias por la paciencia y por apoyar el desarrollo del bot. ¡Seguimos mejorando! 💪
+🔮 Entretenimiento cósmico: horóscopos, tarot, retos, consejos y mucho más.
 
-Solo Invitalo - [https://top.gg/bot/680897280433324081/invite](https://top.gg/bot/680897280433324081/invite)
+🐾 Sistemas únicos: mascotas, economía, coleccionables y nuevas funciones en constante desarrollo.
 
----
+## 🚀 ¿Por qué elegir Abyssus?
 
-## 🔒 Aviso de Privacidad Legal
+✔️ Porque tu comunidad merece personalidad.
+✔️ Porque la automatización debe ser sencilla.
+✔️ Porque la seguridad y la privacidad importan.
+✔️ Porque cada servidor es único.
 
-Abyssus Bot ha sido diseñado con un principio fundamental: **la privacidad del usuario es intocable**.
+Abyssus combina utilidad, diversión y administración avanzada en una sola plataforma.
 
-- No recopila ni almacena datos personales.
-- No rastrea actividad fuera de Discord.
-- No comparte información con terceros.
-- Toda la información se guarda localmente en el servidor.
+🔗 Invita Abyssus hoy y lleva tu servidor al siguiente nivel.
 
-Para más detalles, consultá el archivo [📄 Aviso de Privacidad Legal](https://abyssus-dashboard.netlify.app/privacidad).
-
+**Invitar:** https://top.gg/bot/680897280433324081/invite
 
 ---
 
-**Tu privacidad es prioridad. Abyssus Bot no guarda, no analiza y no comparte. Simplemente funciona.**
+# 🔒 Privacidad y Transparencia
+
+La privacidad de los usuarios es una prioridad.
+
+* No rastrea actividad fuera de Discord.
+* No comparte información con terceros.
+* Los datos almacenados son utilizados exclusivamente para el funcionamiento de las funciones del bot.
+* Los administradores mantienen el control sobre la configuración y registros generados dentro de sus servidores.
+
+📄 Política de Privacidad:
+https://mrabyssus.github.io/Abyssusbot/privacidad.html
 
 ---
 
-# 🔒 Filosofía de Abyssus Bot
+# 🧬 Filosofía de Abyssus
 
-Abyssus fue creado con una visión clara: moderar sin invadir.
+Abyssus fue creado bajo tres principios fundamentales:
 
-- No guarda mensajes ni datos personales.
-- No usa bases de datos externas.
-- No rastrea actividad fuera del servidor.
-- Todos los registros son locales y visibles solo para administradores.
+**Privacidad.**
+**Transparencia.**
+**Control para las comunidades.**
 
-🧠 Abyssus cree en la autonomía, la transparencia y el respeto por la privacidad.  
-📌 Si estás usando Abyssus, estás eligiendo moderar con integridad.
+Nuestro objetivo es ofrecer herramientas potentes sin comprometer la confianza de nuestros usuarios.
+
+Abyssus no busca invadir comunidades. Busca fortalecerlas.
+
+Gracias por apoyar el desarrollo del proyecto. Seguimos creciendo y mejorando cada día. 💜
 
 
